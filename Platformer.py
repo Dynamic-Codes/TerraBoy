@@ -31,8 +31,8 @@ blue = (0, 0, 255)
 tile_size = 50
 game_over = 0
 main_menu = True
-level = 3
-max_levels = 3
+level = 1
+max_levels = 2
 score = 0
 
 def draw_text(text, font, text_col, x, y):
