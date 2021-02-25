@@ -16,7 +16,7 @@ screen_width = 1000
 screen_height = 700
 
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('Diamond & The Bee Adventure')
+pygame.display.set_caption('TerraBoy: The Game')
 
 #define text vars.
 font = pygame.font.SysFont('Bauhaus 93', 70)
