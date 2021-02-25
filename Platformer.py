@@ -1,3 +1,6 @@
+#COPYRIGHT DYNAMICCODES 2021 @ GITHUB.
+#NOT TO BE EDITED OR USED WITHOUT CONSENT FROM DEVELOPER. 
+
 import pygame
 from pygame.locals import *
 from pygame import mixer
@@ -495,3 +498,6 @@ while run:
 	pygame.display.update()
 
 pygame.quit()
+
+#COPYRIGHT DYNAMICCODES 2021 @ GITHUB.
+#NOT TO BE EDITED OR USED WITHOUT CONSENT FROM DEVELOPER. 
